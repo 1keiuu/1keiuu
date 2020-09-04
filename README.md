@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ikkei12)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=ikkei12&repo=homebridge-switchbot-for-mac)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=ikkei12&repo=portfolio20)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ikkei12)
 
