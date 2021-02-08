@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 ## 👤 About
 - 🏠　live in **Tokyo/Japan**.  
 - 🎂　born on **March 11, 1998**.    
-- 🏢　I’m currently working on **for Startups, Inc.**  
-- 🌱　I’m currently learning **Node.js** / **GCP**  
+- 🏢　working on **for Startups, Inc.**  
+- 🌱　learning **Node.js** / **GCP**  
 
 If you are interested, please visit [My Portfolio](https://1k-cove.com) ⚡️
 
