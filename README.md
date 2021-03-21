@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🏠　live in **Tokyo/Japan**.  
 - 🎂　born on **March 11, 1998**.    
 - 🏢　working on **PLAID, Inc.**  
-- 🌱　learning **Node.js** / **GCP**  
+- 🌱　learning **Frontend** / **Node.js** / **GCP**  
 
 If you are interested, please visit [My Portfolio](https://1k-cove.com) ⚡️
 
