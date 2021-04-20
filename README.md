@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 ## 👤 About
 - 🏠　live in **Tokyo/Japan**.  
 - 🎂　born on **March 11, 1998**.    
-- 🏢　working on **PLAID, Inc.**  
-- 🌱　learning **Frontend** / **Node.js** / **GCP**  
+- 🌱　learning **Frontend**
 
 If you are interested, please visit [My Portfolio](https://1k-cove.com) ⚡️
 
@@ -18,6 +17,5 @@ If you are interested, please visit [My Portfolio](https://1k-cove.com) ⚡️
 (Apr 2017 ~ present)  
 
 ## 📫 Contact
-- Gmail: [ikkei12.inw@gmail.com](mailto:ikkei12.inw@gmail.com)  
 - Twitter: [@1keiuu](https://twitter.com/1keiuu)  
 - Wantedly: [MyPage](https://www.wantedly.com/id/keiu)  
