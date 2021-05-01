@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 🏫　student of **Keio University Faculty of Economics**
 
 If you are interested, please visit [My Portfolio](https://1k-cove.com) ⚡️
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1keiuu)](https://git.io/streak-stats)
