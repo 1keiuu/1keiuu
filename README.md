@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 If you are interested, please visit [My Portfolio](https://1k-cove.com) ⚡️
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1keiuu)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1keiuu&theme=vue&hide_border=true)](https://git.io/streak-stats)
