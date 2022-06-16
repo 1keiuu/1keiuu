@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 ## About [@1keiuu](https://twitter.com/1keiuu)</span>
-🏠　**Tokyo/Japan**  
-🎂　**March 11, 1998**    
-🏫　**Keio University Faculty of Economics**
+🏠 Tokyo/Japan  
+🎂 March 11, 1998    
+🏫 Keio University Faculty of Economics
 
 Please visit [My Portfolio](https://1k-cove.com) ⚡️
 
