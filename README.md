@@ -5,8 +5,5 @@
 
 Here are some ideas to get you started:
 -->
-## about [@1keiuu](https://twitter.com/1keiuu)</span>
 \- Tokyo/Japan  
 \- March 11, 1998     
-
-Please visit [My Portfolio](https://1keiuu.com) ⚡️
